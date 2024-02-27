@@ -3,13 +3,9 @@
 
 **`Software Engineer`**
 
-Hello, and welcome to my profile! 🤗
+Hello, 
 
-I'm a dedicated web developer specializing in building robust, user-friendly applications using a range of technologies. My core strengths lie in Ruby on Rails and React, but I'm always eager to explore new horizons, particularly in the world of Python and data.
-
-With a strong commitment to delivering high-quality software that truly meets user needs, I have a proven track record of success in developing and maintaining complex applications across various industries.
-
-I'm continuously seeking fresh and innovative ways to enhance my skills and deliver outstanding results. Thank you for taking the time to learn more about me, and I'm excited about the opportunity to connect and collaborate with like-minded professionals. Let's make meaningful connections together! ✌️
+I'm a dedicated web developer specializing in building robust, user-friendly applications using a range of technologies. My core strengths lie in Ruby on Rails, Python and React, but I'm always eager to explore new horizons, like my new friend Go 🤗 .
 
    <p align="left">
       <a href="https://github.com/Badara-Senpai?tab=followers">
