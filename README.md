@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 🏄‍♂️ Alioune Badara (Badara Senpai)
+# 🦸🏾‍♂️ Alioune Badara
 
 **`Software Engineer`**
 
