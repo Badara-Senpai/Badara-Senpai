@@ -1,9 +1,8 @@
-### Hi there 👋
 # 🦸🏾‍♂️ Alioune Badara
 
 **`Software Engineer`**
 
-Hello, 
+### Hi there 👋
 
 I'm a dedicated web developer specializing in building robust, user-friendly applications using a range of technologies. My core strengths lie in Ruby on Rails, Python and React, but I'm always eager to explore new horizons, like my new friend Go 🤗 .
 
