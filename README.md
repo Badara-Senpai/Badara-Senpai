@@ -44,9 +44,7 @@ I'm continuously seeking fresh and innovative ways to enhance my skills and deli
 
 ### 📊 Stats
 
-![Badara-Senpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Badara-Senpai&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badara-Senpai&hide=html,css&layout=compact)
 
 #
 <!--
