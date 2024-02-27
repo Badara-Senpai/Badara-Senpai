@@ -44,7 +44,7 @@ I'm continuously seeking fresh and innovative ways to enhance my skills and deli
 
 ### 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badara-Senpai&hide=html,css&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badara-Senpai&hide=html,css&layout=donut)
 
 #
 <!--
