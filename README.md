@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm a dedicated web developer specializing in building robust, user-friendly applications using a range of technologies. My core strengths lie in Ruby on Rails, Python and React, but I'm always eager to explore new horizons, like my new friend Go 🤗 .
+I'm a dedicated software engineer specializing in building robust, user-friendly applications using a range of technologies. My core strengths lie in Ruby, Python and React, but I'm always eager to explore new horizons, like my new friend Go 🤗 .
 
    <p align="left">
       <a href="https://github.com/Badara-Senpai?tab=followers">
