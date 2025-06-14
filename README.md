@@ -40,7 +40,7 @@ I'm a dedicated software engineer specializing in building robust, user-friendly
 
 ### 📊 Stats in Different Repositories
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badara-Senpai&hide=html,css&layout=donut&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badara-Senpai&hide=html,css,slim&layout=donut&hide_progress=true)
 
 #
 <!--
